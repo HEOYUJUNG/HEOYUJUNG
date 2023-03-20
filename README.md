@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HEO%YUJUNGG&color=#FFDFA8)
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HEOYUJUNG&color=ffdfa8&fontColor=996655)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEOYUJUNG&show_icons=true&theme=radical)
