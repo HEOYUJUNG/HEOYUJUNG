@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HEOYUJUNG/HEOYUJUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HEOYUJUNG&color=ffdfa8&fontColor=996655)
 
-
+<div align="center">
+  
+  ### Welcome to YUJUNG's github 👋😊
+  
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEOYUJUNG&show_icons=true&theme=radical)
 
