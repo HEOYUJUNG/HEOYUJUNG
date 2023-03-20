@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HEO%YUJUNG&color=#FFDFA8)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HEO%YUJUNGG&color=#FFDFA8)
 </div>
 
 
