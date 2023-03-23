@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 <!-- 깃허브 stat -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEOYUJUNG&show_icons=true&theme=radical)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEOYUJUNG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- 깃허브 잔디 -->
 <img src="https://ghchart.rshah.org/ff8b94/HEOYUJUNG" />
 </div>
