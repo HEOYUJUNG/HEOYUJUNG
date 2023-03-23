@@ -20,11 +20,21 @@ Here are some ideas to get you started:
   
   ### Welcome to YUJUNG's github 👋😊
   
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+<br>
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
+<!-- 방문자 수 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHEOYUJUNG&count_bg=%23FFDB91&title_bg=%23FFBAD3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 
+<!-- 백준 티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikki601)](https://solved.ac/nikki601)
 
+<!-- 깃허브 stat -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEOYUJUNG&show_icons=true&theme=radical)
 
+<!-- 깃허브 잔디 -->
 <img src="https://ghchart.rshah.org/ff8b94/HEOYUJUNG" />
 </div>
