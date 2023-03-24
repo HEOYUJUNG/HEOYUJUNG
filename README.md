@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEOYUJUNG&show_icons=true&theme=radical)
 
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEOYUJUNG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEOYUJUNG&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 깃허브 잔디 -->
