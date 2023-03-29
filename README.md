@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 
 <!-- 깃허브 잔디 -->
-<img src="https://ghchart.rshah.org/7B68EE/HEOYUJUNG" />
+<img src="https://ghchart.rshah.org/8B4513/HEOYUJUNG" />
 </div>
