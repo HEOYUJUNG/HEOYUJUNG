@@ -20,11 +20,18 @@ Here are some ideas to get you started:
   
   ### Welcome to YUJUNG's github 👋😊
   
+<!-- 뱃지 -->
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 <br>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
+<!-- 블로그 -->
+<a src="https://yudaeng-log.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+
+<!-- 솔브닥-->
+<a src="https://solved.ac/profile/nikki601">Solved.ac</a>
+  
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHEOYUJUNG&count_bg=%23F9C945&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
